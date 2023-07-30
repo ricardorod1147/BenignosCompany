@@ -67,6 +67,7 @@ const ChangeSection=(parametro)=>{
         about.classList.add('noshow');
         contact.classList.add('contact');
     }
+    ShowMenu();
 
 }
 
